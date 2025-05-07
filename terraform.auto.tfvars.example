@@ -1,0 +1,8 @@
+azure_local_nodes = ["node-1", "node-2"]
+datacenter        = "datacenter"
+datastore         = "datastore"
+cluster           = "cluster"
+network           = "Azure Local"
+vsphere_password  = ""
+vsphere_user      = ""
+vsphere_server    = ""
