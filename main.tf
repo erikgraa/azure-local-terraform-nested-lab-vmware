@@ -1,4 +1,3 @@
-
 locals {
   annotation = "Azure Local nested deployment."
   num_cpus   = 12
