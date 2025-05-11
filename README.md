@@ -1,5 +1,7 @@
-# Azure Local Nested Deployment VMs for network installation
+# Azure Local Nested Deployment VMs with Terraform
 
-This repository contains Terraform code to stand up one or more virtual machines to test network-based OS installation for Azure Local.
+This repository contains Terraform code to stand up one or more virtual machines for Azure Local nested lab purposes.
+
+This can be used to test network-based OS installation for Azure Local for instance, or used used for a nested Hyper-V lab environment.
 
 Related blog post: https://blog.graa.dev/AzureLocal-NetworkInstall
