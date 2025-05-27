@@ -4,4 +4,6 @@ This repository contains Terraform code to stand up one or more virtual machines
 
 This can be used to test network-based OS installation for Azure Local for instance, or used used for a nested Hyper-V lab environment.
 
-Related blog post: https://blog.graa.dev/AzureLocal-NetworkInstall
+Related blog posts:
+* https://blog.graa.dev/AzureLocal-NetworkInstall
+* https://blog.graa.dev/AzureLocal-NestedDeploymentTips
